@@ -13,7 +13,8 @@ This project enables users to upload PDF documents and interactively chat with t
 ✅ Use `ChatOllama` for **natural language responses**.
 ✅ Interactive chat interface with **chat history support** using `Streamlit`.
 
-![Chatbot Sticker](https://cdn-icons-png.flaticon.com/512/4712/4712027.png)
+![image](https://github.com/user-attachments/assets/8e90b959-2504-403d-b761-d7cbdd067b5a)
+
 
 ---
 
